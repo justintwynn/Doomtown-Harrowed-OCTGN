@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<set name="Playtesting" id="f49e4747-4e6c-49e1-9814-84a43f05f4ef" 
+     gameId="d50c9317-484a-472b-8038-fe5f4daa2e58" 
+     version="1.0.0" 
+     gameVersion="1.0.0" 
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+     xsi:noNamespaceSchemaLocation="CardSet.xsd">
+  <cards>
+      <card id="b4b414e1-662f-49b4-bc76-5491da8735fe" name="Harrowed's Completely Broken House">
+         <property name="Rank" value="K" />
+         <property name="Suit" value="Diamonds" />
+         <property name="Type" value="Deed" />
+         <property name="Cost" value="1" />
+         <property name="Upkeep" value="0" />
+         <property name="Production" value="0" />
+         <property name="Bullets" value="" />
+         <property name="Bullet Bonus" value="" />
+         <property name="Draw Type" value="" />
+         <property name="Influence" value="" />
+         <property name="Control" value="7" />
+         <property name="Outfit" value="" />
+         <property name="Keywords" value="Private-Broken" />
+         <property name="Text" value="You Win." />
+         <property name="Instructions" value="" />
+      </card>
+    </cards>
+</set>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <game xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
       xmlns:xsd="http://www.w3.org/2001/XMLSchema" 
-      name="Doomtown-Reloaded" 
-      id="b440d120-025a-4fbe-9f8d-3873acacb37b" 
+      name="Doomtown-Harrowed" 
+      id="d50c9317-484a-472b-8038-fe5f4daa2e58" 
       octgnVersion="3.1.0.0"
-      version="1.14.1.0" 
+      version="1.14.1.99" 
       markersize="16"
       tags="western deadlands poker maneuvering multiplayer"
       description="Doomtown Rides again! The award winning game of poker gunfights and spatial maneuvering is back.
