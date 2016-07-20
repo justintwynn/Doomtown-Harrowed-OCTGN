@@ -48,96 +48,96 @@
            <wordwrap height="75" width="100" align="center" />
          </block>
    <!-- Card Suit Blocks -->
-         <block type="overlay" id="clubs" src="Proxy/Values/clubs.png">         
+         <block type="overlay" id="clubs" src="Proxy/Icons/Conditional_Dummy.png">         
            <location x="16" y="105" />
          </block>  
-         <block type="overlay" id="spades" src="Proxy/Values/spades.png">         
+         <block type="overlay" id="spades" src="Proxy/Icons/Conditional_Dummy.png">         
            <location x="16" y="105" />
          </block>  
-         <block type="overlay" id="hearts" src="Proxy/Values/hearts.png">         
+         <block type="overlay" id="hearts" src="Proxy/Icons/Conditional_Dummy.png">         
            <location x="16" y="105" />
          </block>  
-         <block type="overlay" id="diamonds" src="Proxy/Values/diamonds.png">         
+         <block type="overlay" id="diamonds" src="Proxy/Icons/Conditional_Dummy.png">         
            <location x="16" y="105" />
          </block>  
    <!-- Card Rank Blocks -->
          <block type="overlay" id="b_a" src="Proxy/Values/b_a.png">         
-           <location x="20" y="18" />
+           <location x="57" y="62" />
          </block>  
          <block type="overlay" id="b_2" src="Proxy/Values/b_2.png">         
-           <location x="20" y="18" />
+           <location x="57" y="62" />
          </block>  
          <block type="overlay" id="b_3" src="Proxy/Values/b_3.png">         
-           <location x="20" y="18" />
+           <location x="57" y="62" />
          </block>  
          <block type="overlay" id="b_4" src="Proxy/Values/b_4.png">         
-           <location x="20" y="18" />
+           <location x="57" y="62" />
          </block>  
          <block type="overlay" id="b_5" src="Proxy/Values/b_5.png">         
-           <location x="20" y="18" />
+           <location x="57" y="62" />
          </block>  
          <block type="overlay" id="b_6" src="Proxy/Values/b_6.png">         
-           <location x="20" y="18" />
+           <location x="57" y="62" />
          </block>  
          <block type="overlay" id="b_7" src="Proxy/Values/b_7.png">         
-           <location x="20" y="18" />
+           <location x="57" y="62" />
          </block>  
          <block type="overlay" id="b_8" src="Proxy/Values/b_8.png">         
-           <location x="20" y="18" />
+           <location x="57" y="62" />
          </block>  
          <block type="overlay" id="b_9" src="Proxy/Values/b_9.png">         
-           <location x="20" y="18" />
+           <location x="57" y="62" />
          </block>  
          <block type="overlay" id="b_10" src="Proxy/Values/b_10.png">         
-           <location x="20" y="18" />
+           <location x="57" y="62" />
          </block>  
          <block type="overlay" id="b_j" src="Proxy/Values/b_j.png">         
-           <location x="20" y="18" />
+           <location x="57" y="62" />
          </block>  
          <block type="overlay" id="b_q" src="Proxy/Values/b_q.png">         
-           <location x="20" y="18" />
+           <location x="57" y="62" />
          </block>  
          <block type="overlay" id="b_k" src="Proxy/Values/b_k.png">         
-           <location x="20" y="18" />
+           <location x="57" y="62" />
          </block>  
          <block type="overlay" id="r_a" src="Proxy/Values/r_a.png">         
-           <location x="20" y="18" />
+           <location x="57" y="62" />
          </block>  
          <block type="overlay" id="r_2" src="Proxy/Values/r_2.png">         
-           <location x="20" y="18" />
+           <location x="57" y="62" />
          </block>  
          <block type="overlay" id="r_3" src="Proxy/Values/r_3.png">         
-           <location x="20" y="18" />
+           <location x="57" y="62" />
          </block>  
          <block type="overlay" id="r_4" src="Proxy/Values/r_4.png">         
-           <location x="20" y="18" />
+           <location x="57" y="62" />
          </block>  
          <block type="overlay" id="r_5" src="Proxy/Values/r_5.png">         
-           <location x="20" y="18" />
+           <location x="57" y="62" />
          </block>  
          <block type="overlay" id="r_6" src="Proxy/Values/r_6.png">         
-           <location x="20" y="18" />
+           <location x="57" y="62" />
          </block>  
          <block type="overlay" id="r_7" src="Proxy/Values/r_7.png">         
-           <location x="20" y="18" />
+           <location x="57" y="62" />
          </block>  
          <block type="overlay" id="r_8" src="Proxy/Values/r_8.png">         
-           <location x="20" y="18" />
+           <location x="57" y="62" />
          </block>  
          <block type="overlay" id="r_9" src="Proxy/Values/r_9.png">         
-           <location x="20" y="18" />
+           <location x="57" y="62" />
          </block>  
          <block type="overlay" id="r_10" src="Proxy/Values/r_10.png">         
-           <location x="20" y="18" />
+           <location x="57" y="62" />
          </block>  
          <block type="overlay" id="r_j" src="Proxy/Values/r_j.png">         
-           <location x="20" y="18" />
+           <location x="57" y="62" />
          </block>  
          <block type="overlay" id="r_q" src="Proxy/Values/r_q.png">         
-           <location x="20" y="18" />
+           <location x="57" y="62" />
          </block>  
          <block type="overlay" id="r_k" src="Proxy/Values/r_k.png">         
-           <location x="20" y="18" />
+           <location x="57" y="62" />
          </block>  
    <!-- Joker Blocks -->
          <block type="overlay" id="joker_top_left" src="Proxy/Values/joker_value_left.jpg">         
@@ -313,7 +313,7 @@
          </block>
    <!-- Deed Block-->
          <block type="text" id="deed_name">
-           <location x="160" y="70" />
+           <location x="160" y="40" />
            <text color="#000000" size="90" font="Fonts/playbill-doomtown.ttf" />
            <wordwrap height="100" width="430" align="center" valign="center" shrinktofit="True"/>
          </block>
