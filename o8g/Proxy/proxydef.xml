@@ -17,34 +17,34 @@
    <!-- Common Text Blocks -->
          <block type="text" id="rank">
            <location x="20" y="10" />
-           <text color="#000000" size="85"  font="Fonts/playbill-doomtown.ttf" />
+           <text color="#000000" size="85"  font="Fonts/Saddlebag-Doomtown.ttf" />
          </block>
          <block type="text" id="suit">
            <location x="20" y="100" />
-           <text color="#000000" size="65"  font="Fonts/playbill-doomtown.ttf" />
+           <text color="#000000" size="65"  font="Fonts/Saddlebag-Doomtown.ttf" />
          </block>
          <block type="text" id="cost">
            <location x="25" y="770" />
-           <text color="#000000" size="85" font="Fonts/playbill-doomtown.ttf" />
+           <text color="#000000" size="85" font="Fonts/Saddlebag-Doomtown.ttf" />
            <wordwrap height="95" width="100" align="center" />
          </block>
          <block type="text" id="production_upkeep">
            <location x="520" y="765" />
-           <text color="#FFFFFF" size="95" font="Fonts/playbill-doomtown.ttf" />
+           <text color="#FFFFFF" size="95" font="Fonts/Saddlebag-Doomtown.ttf" />
            <wordwrap height="95" width="100" align="center" />
          </block>
          <block type="text" id="bullet">
            <location x="35" y="230" />
-           <text color="#000000" size="75" font="Fonts/playbill-doomtown.ttf" />
+           <text color="#000000" size="75" font="Fonts/Saddlebag-Doomtown.ttf" />
          </block>
          <block type="text" id="influence">
            <location x="10" y="352" />
-           <text color="#000000" size="75" font="Fonts/playbill-doomtown.ttf" />
+           <text color="#000000" size="75" font="Fonts/Saddlebag-Doomtown.ttf" />
            <wordwrap height="75" width="100" align="center" />
          </block>
          <block type="text" id="control">
            <location x="10" y="352" />
-           <text color="#000000" size="75" font="Fonts/playbill-doomtown.ttf" />
+           <text color="#000000" size="75" font="Fonts/Saddlebag-Doomtown.ttf" />
            <wordwrap height="75" width="100" align="center" />
          </block>
    <!-- Card Suit Blocks -->
@@ -154,12 +154,12 @@
          </block>  
          <block type="text" id="joker_name">
            <location x="50" y="70" />
-           <text color="#000000" size="125" font="Fonts/playbill-doomtown.ttf" />
+           <text color="#000000" size="125" font="Fonts/Saddlebag-Doomtown.ttf" />
            <wordwrap height="125" width="570" align="center" valign="center" shrinktofit="True"/>
          </block>
          <block type="text" id="joker_text">
            <location x="50" y="300" />
-           <text color="#000000" size="31" font="Fonts/american-typewriter-medium-bt-2.ttf" />
+           <text color="#000000" size="31" font="Fonts/Adobe-Caslon-Pro_2006.ttf" />
            <wordwrap height="530" width="575" shrinktofit="True"/>
          </block>
    <!-- Icon Blocks -->
@@ -224,17 +224,17 @@
          </block>  
          <block type="text" id="dude_name">
            <location x="160" y="40" />
-           <text color="#000000" size="125" font="Fonts/playbill-doomtown.ttf" />
+           <text color="#000000" size="125" font="Fonts/Saddlebag-Doomtown.ttf" />
            <wordwrap height="125" width="400" align="center" valign="center" shrinktofit="True"/>
          </block>
          <block type="text" id="dude_text">
            <location x="55" y="560" />
-           <text color="#000000" size="31" font="Fonts/american-typewriter-medium-bt-2.ttf" />
+           <text color="#000000" size="31" font="Fonts/Adobe-Caslon-Pro_2006.ttf" />
            <wordwrap height="235" width="545" shrinktofit="True"/>
          </block>
          <block type="text" id="keywords">
            <location x="160" y="780" />
-           <text color="#000000" size="31" font="Fonts/american-typewriter-medium-bt-2.ttf" />
+           <text color="#000000" size="31" font="Fonts/Adobe-Caslon-Pro_2006.ttf" />
            <border color="#000000" size="1" />
            <wordwrap height="70" width="400" shrinktofit="True"/>
          </block>
@@ -277,60 +277,60 @@
          </block>  
          <block type="text" id="starting_rock">
            <location x="538" y="692" />
-           <text color="#000000" size="65" font="Fonts/playbill-doomtown.ttf" />
+           <text color="#000000" size="65" font="Fonts/Saddlebag-Doomtown.ttf" />
          </block>
          <block type="text" id="outfit_name">
            <location x="20" y="30" />
-           <text color="#FFFFFF" size="125" font="Fonts/playbill-doomtown.ttf" />
+           <text color="#FFFFFF" size="125" font="Fonts/Saddlebag-Doomtown.ttf" />
            <wordwrap height="125" width="430" align="center" valign="center" shrinktofit="True"/>
          </block>
          <block type="text" id="outfit_text">
            <location x="60" y="575" rotate="356" />
-           <text color="#000000" size= "31" font="Fonts/american-typewriter-medium-bt-2.ttf" />
+           <text color="#000000" size= "31" font="Fonts/Adobe-Caslon-Pro_2006.ttf" />
            <wordwrap height="290" width="470" shrinktofit="True"/>
          </block>
    <!-- Spell Block-->
          <block type="text" id="spell_name">
            <location x="160" y="20" />
-           <text color="#000000" size="125" font="Fonts/playbill-doomtown.ttf" />
+           <text color="#000000" size="125" font="Fonts/Saddlebag-Doomtown.ttf" />
            <wordwrap height="125" width="430" align="center" valign="center" shrinktofit="True"/>
          </block>
          <block type="text" id="spell_text">
            <location x="70" y="590" />
-           <text color="#000000" size="31" font="Fonts/american-typewriter-medium-bt-2.ttf" />
+           <text color="#000000" size="31" font="Fonts/Adobe-Caslon-Pro_2006.ttf" />
            <wordwrap height="200" width="525" shrinktofit="True"/>
          </block>
    <!-- Action Block-->
          <block type="text" id="action_name">
            <location x="160" y="40" />
-           <text color="#000000" size="125" font="Fonts/playbill-doomtown.ttf" />
+           <text color="#000000" size="125" font="Fonts/Saddlebag-Doomtown.ttf" />
            <wordwrap height="125" width="430" align="center" valign="center" shrinktofit="True"/>
          </block>
          <block type="text" id="action_text">
            <location x="60" y="560" />
-           <text color="#000000" size="31" font="Fonts/american-typewriter-medium-bt-2.ttf" />
+           <text color="#000000" size="31" font="Fonts/Adobe-Caslon-Pro_2006.ttf" />
            <wordwrap height="240" width="545" shrinktofit="True"/>
          </block>
    <!-- Deed Block-->
          <block type="text" id="deed_name">
            <location x="160" y="40" />
-           <text color="#000000" size="90" font="Fonts/playbill-doomtown.ttf" />
+           <text color="#000000" size="90" font="Fonts/Saddlebag-Doomtown.ttf" />
            <wordwrap height="100" width="430" align="center" valign="center" shrinktofit="True"/>
          </block>
          <block type="text" id="deed_text">
            <location x="60" y="560" />
-           <text color="#000000" size="31" font="Fonts/american-typewriter-medium-bt-2.ttf" />
+           <text color="#000000" size="31" font="Fonts/Adobe-Caslon-Pro_2006.ttf" />
            <wordwrap height="230" width="545" shrinktofit="True"/>
          </block>
    <!-- Event Block-->
          <block type="text" id="event_name">
            <location x="160" y="60" />
-           <text color="#000000" size="90" font="Fonts/playbill-doomtown.ttf" />
+           <text color="#000000" size="90" font="Fonts/Saddlebag-Doomtown.ttf" />
            <wordwrap height="100" width="430" align="center" valign="center" shrinktofit="True"/>
          </block>
          <block type="text" id="event_text">
            <location x="60" y="560" />
-           <text color="#000000" size="31" font="Fonts/american-typewriter-medium-bt-2.ttf" />
+           <text color="#000000" size="31" font="Fonts/Adobe-Caslon-Pro_2006.ttf" />
            <wordwrap height="310" width="545" shrinktofit="True"/>
          </block>
       </blocks>
