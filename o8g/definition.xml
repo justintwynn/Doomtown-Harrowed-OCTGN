@@ -15,7 +15,7 @@
       setsurl="http://octgn.gamersjudgement.com/wordpress/doomtown/sets/"
       gameurl="http://octgn.gamersjudgement.com/wordpress/doomtown"
       authors="Db0"
-      iconurl="https://raw.github.com/db0/Doomtown-Reloaded-OCTGN/master/DTR_logo.jpg"
+      iconurl="https://raw.github.com/justintwynn/Doomtown-Harrowed-OCTGN/master/dt_harrowed.jpg"
       scriptVersion="3.1.0.1"
       usetwosidedtable="False">
 	<scripts>
