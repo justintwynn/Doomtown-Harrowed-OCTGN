@@ -4,17 +4,17 @@
       name="Doomtown-Harrowed" 
       id="d50c9317-484a-472b-8038-fe5f4daa2e58" 
       octgnVersion="3.1.0.0"
-      version="1.15.0.0" 
+      version="1.15.0.9" 
       markersize="16"
       tags="western deadlands poker maneuvering multiplayer"
-      description="Doomtown Rides again! The award winning game of poker gunfights and spatial maneuvering is back.
+      description="Doomtown is Harrowed - &quot;It's awfully tough to do any serious harm to something that's already crawled out of the grave once...&quot;
       &#xD;&#xD;&#xD;Doomtown has players taking the part of gangs, called 'outfits,' trying to gain control of the California boomtown known as Gomorra, in the same Weird West setting as the popular Deadlands RPG.
       &#xD;&#xD;This game works very well for more than 2 players.
       &#xd;&#xd;Automation rank: A
       &#xd;(This game definition contains significant automation of cards and common actions to reduce tediousness amd speed up play.)"
-      setsurl="http://octgn.gamersjudgement.com/wordpress/doomtown/sets/"
-      gameurl="http://octgn.gamersjudgement.com/wordpress/doomtown"
-      authors="Db0"
+      setsurl=""
+      gameurl="http://www.dtharrowed.com"
+      authors="Db0, Harrowed OCTGN Team"
       iconurl="https://raw.github.com/justintwynn/Doomtown-Harrowed-OCTGN/master/dt_harrowed.jpg"
       scriptVersion="3.1.0.1"
       usetwosidedtable="False">
