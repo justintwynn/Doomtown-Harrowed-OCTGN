@@ -25,39 +25,44 @@
          </block>
          <block type="text" id="cost">
            <location x="25" y="770" />
-           <text color="#000000" size="85" font="Fonts/Saddlebag-Doomtown.ttf" />
+           <text color="#000000" size="85" font="Fonts/Akenaten Normal.ttf" />
+           <border color="#FFFFFF" size="5" />
            <wordwrap height="95" width="100" align="center" />
          </block>
          <block type="text" id="production_upkeep">
            <location x="520" y="765" />
-           <text color="#FFFFFF" size="95" font="Fonts/Saddlebag-Doomtown.ttf" />
+           <text color="#FFFFFF" size="95" font="Fonts/Akenaten Normal.ttf" />
+           <border color="#000000" size="5" />
            <wordwrap height="95" width="100" align="center" />
          </block>
          <block type="text" id="bullet">
            <location x="35" y="230" />
-           <text color="#000000" size="75" font="Fonts/Saddlebag-Doomtown.ttf" />
+           <text color="#000000" size="75" font="Fonts/Akenaten Normal.ttf" />
+           <border color="#FFFFFF" size="5" />
          </block>
          <block type="text" id="influence">
            <location x="10" y="352" />
-           <text color="#000000" size="75" font="Fonts/Saddlebag-Doomtown.ttf" />
+           <text color="#000000" size="75" font="Fonts/Akenaten Normal.ttf" />
+           <border color="#FFFFFF" size="5" />
            <wordwrap height="75" width="100" align="center" />
          </block>
          <block type="text" id="control">
            <location x="10" y="352" />
-           <text color="#000000" size="75" font="Fonts/Saddlebag-Doomtown.ttf" />
+           <text color="#000000" size="75" font="Fonts/Akenaten Normal.ttf" />
+           <border color="#FFFFFF" size="5" />
            <wordwrap height="75" width="100" align="center" />
          </block>
    <!-- Card Suit Blocks -->
-         <block type="overlay" id="clubs" src="Proxy/Icons/Conditional_Dummy.png">         
+         <block type="overlay" id="clubs" src="Proxy/Values/clubs.png">         
            <location x="16" y="105" />
          </block>  
-         <block type="overlay" id="spades" src="Proxy/Icons/Conditional_Dummy.png">         
+         <block type="overlay" id="spades" src="Proxy/Values/spades.png">         
+         <location x="16" y="105" />
+         </block>  
+         <block type="overlay" id="hearts" src="Proxy/Values/hearts.png">         
            <location x="16" y="105" />
          </block>  
-         <block type="overlay" id="hearts" src="Proxy/Icons/Conditional_Dummy.png">         
-           <location x="16" y="105" />
-         </block>  
-         <block type="overlay" id="diamonds" src="Proxy/Icons/Conditional_Dummy.png">         
+         <block type="overlay" id="diamonds" src="Proxy/Values/diamonds.png">         
            <location x="16" y="105" />
          </block>  
    <!-- Card Rank Blocks -->
@@ -159,7 +164,7 @@
          </block>
          <block type="text" id="joker_text">
            <location x="50" y="300" />
-           <text color="#000000" size="31" font="Fonts/Adobe-Caslon-Pro_2006.ttf" />
+           <text color="#000000" size="31" font="Fonts/ACaslonPro-Regular.otf" />
            <wordwrap height="530" width="575" shrinktofit="True"/>
          </block>
    <!-- Icon Blocks -->
@@ -201,10 +206,10 @@
            <location x="15" y="450" />
          </block>     
    <!-- Dude Blocks -->
-         <block type="overlay" id="dude_blackjacks" src="Proxy/Dudes/blackjacks.jpg">         
+         <block type="overlay" id="dude_blackjacks" src="Proxy/Dudes/sloane_gang.jpg">         
            <location x="0" y="0" />
          </block>  
-         <block type="overlay" id="dude_progress" src="Proxy/Dudes/progress.jpg">         
+         <block type="overlay" id="dude_progress" src="Proxy/Dudes/morgan_cattle_co.jpg">         
            <location x="0" y="0" />
          </block>  
          <block type="overlay" id="dude_drifter" src="Proxy/Dudes/drifter.jpg">         
@@ -213,13 +218,13 @@
          <block type="overlay" id="dude_law_dogs" src="Proxy/Dudes/law_dogs.jpg">         
            <location x="0" y="0" />
          </block>  
-         <block type="overlay" id="dude_wretched" src="Proxy/Dudes/the_wretched.jpg">         
+         <block type="overlay" id="dude_wretched" src="Proxy/Dudes/fourth_ring.jpg">         
            <location x="0" y="0" />
          </block>  
-         <block type="overlay" id="dude_alliance" src="Proxy/Dudes/the_circle.jpg">         
+         <block type="overlay" id="dude_alliance" src="Proxy/Dudes/eagle_wardens.jpg">         
            <location x="0" y="0" />
          </block>  
-         <block type="overlay" id="dude_108" src="Proxy/Dudes/the_society.jpg">         
+         <block type="overlay" id="dude_108" src="Proxy/Dudes/108_righteous_bandits.jpg">         
            <location x="0" y="0" />
          </block>  
          <block type="text" id="dude_name">
@@ -229,32 +234,32 @@
          </block>
          <block type="text" id="dude_text">
            <location x="55" y="560" />
-           <text color="#000000" size="31" font="Fonts/Adobe-Caslon-Pro_2006.ttf" />
+           <text color="#000000" size="31" font="Fonts/ACaslonPro-Regular.otf" />
            <wordwrap height="235" width="545" shrinktofit="True"/>
          </block>
          <block type="text" id="keywords">
            <location x="160" y="780" />
-           <text color="#000000" size="31" font="Fonts/Adobe-Caslon-Pro_2006.ttf" />
+           <text color="#000000" size="31" font="Fonts/ACaslonPro-Regular.otf" />
            <border color="#000000" size="1" />
            <wordwrap height="70" width="400" shrinktofit="True"/>
          </block>
    <!-- Outfit Blocks -->
-         <block type="overlay" id="outfit_blackjacks" src="Proxy/Outfits/blackjacks.jpg">         
+         <block type="overlay" id="outfit_blackjacks" src="Proxy/Outfits/sloane_gang.jpg">         
            <location x="0" y="0" />
          </block>  
-         <block type="overlay" id="outfit_progress" src="Proxy/Outfits/progress.jpg">         
+         <block type="overlay" id="outfit_progress" src="Proxy/Outfits/morgan_cattle_co.jpg">         
            <location x="0" y="0" />
          </block>  
          <block type="overlay" id="outfit_law_dogs" src="Proxy/Outfits/law_dogs.jpg">         
            <location x="0" y="0" />
          </block>  
-         <block type="overlay" id="outfit_wretched" src="Proxy/Outfits/the_wretched.jpg">         
+         <block type="overlay" id="outfit_wretched" src="Proxy/Outfits/fourth_ring.jpg">         
            <location x="0" y="0" />
          </block>  
-         <block type="overlay" id="outfit_alliance" src="Proxy/Outfits/the_circle.jpg">         
+         <block type="overlay" id="outfit_alliance" src="Proxy/Outfits/eagle_wardens.jpg">         
            <location x="0" y="0" />
          </block>  
-         <block type="overlay" id="outfit_108" src="Proxy/Outfits/the_society.jpg">         
+         <block type="overlay" id="outfit_108" src="Proxy/Outfits/108_righteous_bandits.jpg">         
            <location x="0" y="0" />
          </block>  
          <block type="overlay" id="home_outfit_icon_blackjacks" src="Proxy/Icons/fs_blackjacks.png">         
@@ -286,7 +291,7 @@
          </block>
          <block type="text" id="outfit_text">
            <location x="60" y="575" rotate="356" />
-           <text color="#000000" size= "31" font="Fonts/Adobe-Caslon-Pro_2006.ttf" />
+           <text color="#000000" size= "31" font="Fonts/ACaslonPro-Regular.otf" />
            <wordwrap height="290" width="470" shrinktofit="True"/>
          </block>
    <!-- Spell Block-->
@@ -297,7 +302,7 @@
          </block>
          <block type="text" id="spell_text">
            <location x="70" y="590" />
-           <text color="#000000" size="31" font="Fonts/Adobe-Caslon-Pro_2006.ttf" />
+           <text color="#000000" size="31" font="Fonts/ACaslonPro-Regular.otf" />
            <wordwrap height="200" width="525" shrinktofit="True"/>
          </block>
    <!-- Action Block-->
@@ -308,7 +313,7 @@
          </block>
          <block type="text" id="action_text">
            <location x="60" y="560" />
-           <text color="#000000" size="31" font="Fonts/Adobe-Caslon-Pro_2006.ttf" />
+           <text color="#000000" size="31" font="Fonts/ACaslonPro-Regular.otf" />
            <wordwrap height="240" width="545" shrinktofit="True"/>
          </block>
    <!-- Deed Block-->
@@ -319,7 +324,7 @@
          </block>
          <block type="text" id="deed_text">
            <location x="60" y="560" />
-           <text color="#000000" size="31" font="Fonts/Adobe-Caslon-Pro_2006.ttf" />
+           <text color="#000000" size="31" font="Fonts/ACaslonPro-Regular.otf" />
            <wordwrap height="230" width="545" shrinktofit="True"/>
          </block>
    <!-- Event Block-->
@@ -330,7 +335,7 @@
          </block>
          <block type="text" id="event_text">
            <location x="60" y="560" />
-           <text color="#000000" size="31" font="Fonts/Adobe-Caslon-Pro_2006.ttf" />
+           <text color="#000000" size="31" font="Fonts/ACaslonPro-Regular.otf" />
            <wordwrap height="310" width="545" shrinktofit="True"/>
          </block>
       </blocks>
