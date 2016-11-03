@@ -14,6 +14,7 @@ Added all simple scripts. Need to work on the more advanced stuff. Planned to fi
   * De Annulos Mysteriis
   * The Law Goes Underground
   * Gomorra Gaming Commission
+  
 Didn't have time to test the basic ones either, so lemme know any bugs
 
 ### 1.16.0.x
@@ -21,6 +22,10 @@ Didn't have time to test the basic ones either, so lemme know any bugs
 **The Showstopper on OCTGN**. The new set is now available!
 A Bit untested so let me know if you find any bugs
 
+
+### 1.15.1.x
+
+* Added Dave Gorman and Thunber Boy Nabbe
 
 ### 1.15.0.x
 
