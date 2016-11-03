@@ -24,46 +24,46 @@
            <text color="#000000" size="65"  font="Fonts/Saddlebag-Doomtown.ttf" />
          </block>
          <block type="text" id="cost">
-           <location x="25" y="770" />
+           <location x="45" y="775" />
            <text color="#000000" size="85" font="Fonts/Akenaten Normal.ttf" />
            <border color="#FFFFFF" size="5" />
            <wordwrap height="95" width="100" align="center" />
          </block>
          <block type="text" id="production_upkeep">
-           <location x="520" y="765" />
+           <location x="510" y="772" />
            <text color="#FFFFFF" size="95" font="Fonts/Akenaten Normal.ttf" />
            <border color="#000000" size="5" />
            <wordwrap height="95" width="100" align="center" />
          </block>
          <block type="text" id="bullet">
-           <location x="35" y="230" />
+           <location x="60" y="245" />
            <text color="#000000" size="75" font="Fonts/Akenaten Normal.ttf" />
            <border color="#FFFFFF" size="5" />
          </block>
          <block type="text" id="influence">
-           <location x="10" y="352" />
+           <location x="40" y="355" />
            <text color="#000000" size="75" font="Fonts/Akenaten Normal.ttf" />
            <border color="#FFFFFF" size="5" />
            <wordwrap height="75" width="100" align="center" />
          </block>
          <block type="text" id="control">
-           <location x="10" y="352" />
+           <location x="40" y="355" />
            <text color="#000000" size="75" font="Fonts/Akenaten Normal.ttf" />
            <border color="#FFFFFF" size="5" />
            <wordwrap height="75" width="100" align="center" />
          </block>
    <!-- Card Suit Blocks -->
          <block type="overlay" id="clubs" src="Proxy/Values/clubs.png">         
-           <location x="16" y="105" />
+           <location x="57" y="140" />
          </block>  
          <block type="overlay" id="spades" src="Proxy/Values/spades.png">         
-         <location x="16" y="105" />
+         <location x="57" y="140" />
          </block>  
          <block type="overlay" id="hearts" src="Proxy/Values/hearts.png">         
-           <location x="16" y="105" />
+           <location x="57" y="140" />
          </block>  
          <block type="overlay" id="diamonds" src="Proxy/Values/diamonds.png">         
-           <location x="16" y="105" />
+           <location x="57" y="140" />
          </block>  
    <!-- Card Rank Blocks -->
          <block type="overlay" id="b_a" src="Proxy/Values/b_a.png">         
@@ -169,41 +169,44 @@
          </block>
    <!-- Icon Blocks -->
          <block type="overlay" id="icon_bullet_stud" src="Proxy/Icons/bullet_stud.png">         
-           <location x="30" y="180" />
+           <location x="62" y="210" />
          </block>     
          <block type="overlay" id="icon_bullet_draw" src="Proxy/Icons/bullet_draw.png">         
-           <location x="30" y="180" />
+           <location x="62" y="210" />
          </block>     
          <block type="overlay" id="icon_influence" src="Proxy/Icons/pc_influence.png">         
-           <location x="15" y="350" />
+           <location x="52" y="350" />
          </block>     
          <block type="overlay" id="icon_control" src="Proxy/Icons/pc_control.png">         
-           <location x="15" y="350" />
+           <location x="52" y="350" />
          </block>     
          <block type="overlay" id="icon_cost" src="Proxy/Icons/cost.png">         
-           <location x="23" y="770" />
+           <location x="52" y="770" />
          </block>     
          <block type="overlay" id="icon_production_upkeep" src="Proxy/Icons/production_upkeep.png">         
            <location x="520" y="770" />
          </block>     
+		 <block type="overlay" id="icon_stash" src="Proxy/Icons/stash.png">         
+           <location x="52" y="770" />
+         </block>
    <!-- Outfit Icon Blocks -->
          <block type="overlay" id="outfit_icon_blackjacks" src="Proxy/Icons/fs_blackjacks.png">         
-           <location x="15" y="450" />
+           <location x="60" y="440" />
          </block>  
          <block type="overlay" id="outfit_icon_progress" src="Proxy/Icons/fs_the_circle.png">         
-           <location x="15" y="450" />
+           <location x="60" y="440" />
          </block>  
          <block type="overlay" id="outfit_icon_law_dogs" src="Proxy/Icons/fs_law_dogs.png">         
-           <location x="15" y="450" />
+           <location x="60" y="440" />
          </block>  
          <block type="overlay" id="outfit_icon_wretched" src="Proxy/Icons/fs_the_wretched.png">         
-           <location x="15" y="450" />
+           <location x="60" y="440" />
          </block>     
          <block type="overlay" id="outfit_icon_alliance" src="Proxy/Icons/fs_coyote_tribe.png">         
-           <location x="15" y="450" />
+           <location x="60" y="440" />
          </block>  
          <block type="overlay" id="outfit_icon_108" src="Proxy/Icons/fs_maze_rats.png">         
-           <location x="15" y="450" />
+           <location x="60" y="440" />
          </block>     
    <!-- Dude Blocks -->
          <block type="overlay" id="dude_blackjacks" src="Proxy/Dudes/sloane_gang.jpg">         
@@ -235,10 +238,10 @@
          <block type="text" id="dude_text">
            <location x="55" y="560" />
            <text color="#000000" size="31" font="Fonts/ACaslonPro-Regular.otf" />
-           <wordwrap height="235" width="545" shrinktofit="True"/>
+           <wordwrap height="235" width="535" shrinktofit="True"/>
          </block>
          <block type="text" id="keywords">
-           <location x="160" y="780" />
+           <location x="145" y="510" />
            <text color="#000000" size="31" font="Fonts/ACaslonPro-Regular.otf" />
            <border color="#000000" size="1" />
            <wordwrap height="70" width="400" shrinktofit="True"/>
@@ -281,16 +284,18 @@
            <location x="520" y="110" />
          </block>  
          <block type="text" id="starting_rock">
-           <location x="538" y="692" />
-           <text color="#000000" size="65" font="Fonts/Saddlebag-Doomtown.ttf" />
+		   <location x="10" y="785" />
+           <text color="#000000" size="85" font="Fonts/Akenaten Normal.ttf" />
+           <border color="#FFFFFF" size="5" />
+           <wordwrap height="95" width="200" align="center" />
          </block>
          <block type="text" id="outfit_name">
-           <location x="20" y="30" />
-           <text color="#FFFFFF" size="125" font="Fonts/Saddlebag-Doomtown.ttf" />
+           <location x="160" y="30" />
+           <text color="#000000" size="125" font="Fonts/Saddlebag-Doomtown.ttf" />
            <wordwrap height="125" width="430" align="center" valign="center" shrinktofit="True"/>
          </block>
          <block type="text" id="outfit_text">
-           <location x="60" y="575" rotate="356" />
+           <location x="60" y="515" />
            <text color="#000000" size= "31" font="Fonts/ACaslonPro-Regular.otf" />
            <wordwrap height="290" width="470" shrinktofit="True"/>
          </block>
@@ -360,30 +365,32 @@
                <switch property="Outfit">
                   <case value="The Sloane Gang">
                      <link block="outfit_blackjacks" />
-                     <link block="home_outfit_icon_blackjacks" />
+                    <!-- <link block="home_outfit_icon_blackjacks" /> -->
                   </case>
                   <case value="Morgan Cattle Co.">
                      <link block="outfit_progress" />
-                     <link block="home_outfit_icon_progress" />
+                    <!-- <link block="home_outfit_icon_progress" /> -->
                   </case>
                   <case value="Law Dogs">
                      <link block="outfit_law_dogs" />
-                     <link block="home_outfit_icon_law_dogs" />
+                    <!-- <link block="home_outfit_icon_law_dogs" /> -->
                   </case>
                   <case value="The Fourth Ring">
                      <link block="outfit_wretched" />
-                     <link block="home_outfit_icon_wretched" />
+                    <!-- <link block="home_outfit_icon_wretched" /> -->
                   </case>
                   <case value="Eagle Wardens">
                      <link block="outfit_alliance" />
-                     <link block="home_outfit_icon_alliance" />
+                    <!-- <link block="home_outfit_icon_alliance" /> -->
                   </case>
                   <case value="108 Righteous Bandits">
                      <link block="outfit_108" />
-                     <link block="home_outfit_icon_108" />
+                    <!-- <link block="home_outfit_icon_108" /> -->
                   </case>
                </switch>
             </conditional>
+			<link block="icon_stash" />
+            <link block="icon_production_upkeep" />
          </overlayblocks>
          <textblocks>
             <link block="outfit_name" separator=" ">
@@ -396,7 +403,7 @@
                <property name="Text"  />
             </link>
             <link block="production_upkeep">
-               <property name="Production" format="+{}" />
+               <property name="Production" format="{}" />
             </link>
          </textblocks>
       </template>   
@@ -581,6 +588,7 @@
                </switch>
             </conditional>
             <link block="clubs" />
+			<link block="icon_cost" />
          </overlayblocks>
          <textblocks>
             <link block="action_name" separator=" ">
@@ -663,22 +671,22 @@
                </else>               
             </conditional>
             <link block="diamonds" />
+			<link block="icon_cost" />
+			<link block="icon_production_upkeep" />
          </overlayblocks>
          <textblocks>
-            <conditional>
+            <!-- <conditional>
                <if property="Production" value="0">
                   <link block="production_upkeep">
                      <property name="Upkeep"  />
                   </link>
                </if>
                <else>
-                  <link block="production_upkeep">
-                     <property name="Production" format="+{}" />
-                  </link>
+
                </else>
-            </conditional>
+            </conditional> Production isn't showing up, but there's no need for Upkeep deeds now. Making the block unconditional, below. --> 
             <conditional>
-               <if property="Control" value="0">
+               <if property="Control" value="">
                   <link block="dummy" />
                </if>
                <else>
@@ -709,6 +717,10 @@
             <link block="keywords" separator=" ">
                <property name="Keywords" format=" " />
             </link>
+			<link block="production_upkeep">
+			   <!-- Adding + sign causes number to not show up correctly, removing for now -->
+			   <property name="Production" format="{}" />
+            </link> 
          </textblocks>
       </template>   
    <!-- Goods Template -->
@@ -791,6 +803,7 @@
                   <link block="icon_influence" />
                </else>               
             </conditional>
+			<link block="icon_cost" />
          </overlayblocks>
          <textblocks>
             <conditional>
